@@ -5,3 +5,4 @@ setup(name='graphxai',
       description='algorithms and metrics for explaining graph neural networks',
       packages=['graphxai'],
       zip_safe=False)
+
